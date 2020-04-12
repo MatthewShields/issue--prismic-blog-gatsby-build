@@ -1,10 +1,1 @@
-[
-    {
-        "path": "/blog/test-page",
-        "matchPath": "/blog/test-page"
-    },
-    {
-        "path": "/blog-preview",
-        "matchPath": "/blog/:uid"
-    }
-]
+[]
